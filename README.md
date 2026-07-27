@@ -39,4 +39,4 @@ A full-stack e-commerce web application that allows users to browse products, vi
 
 ---
 
-## 📂 Project Structure
+
